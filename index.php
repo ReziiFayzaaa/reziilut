@@ -2,12 +2,10 @@
 <html>
 <body>
 
-<h1>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a Paragraf.</p>
+<h1>My first PHP page</h1>
+<?php
+echo "Kamu Nanya?";
+?>
 
 </body>
 </html>
